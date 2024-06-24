@@ -1,4 +1,4 @@
-**Heart Murmur Classification**
+**Heart Murmur Classification & Detection**
 
 This project focuses on using machine learning techniques to classify heart murmurs based on audio signals. The goal is to develop a model that can accurately distinguish between different types of heart murmurs, aiding in early diagnosis and treatment of heart conditions. The project includes data preprocessing, model development, and performance evaluation, aiming to improve classification accuracy and robustness.
 
